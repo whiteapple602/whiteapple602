@@ -10,7 +10,7 @@
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
 </a>
-Made with [contributors-img](https://contrib.rocks).
+Made with ![contributors-img](https://contrib.rocks).
 --------------------------------------------------------------------
 ## 4. Random Joke Generator
 ## 😂 Here is a random joke that'll make you laugh!
