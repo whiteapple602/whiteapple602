@@ -1,10 +1,10 @@
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+# About Me
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=whiteapple602&show_icons=true)
 --------------------------------------------------------------------
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteapple602&theme=blue-green)
 --------------------------------------------------------------------
 ## 3. Contributors Badge
 <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
